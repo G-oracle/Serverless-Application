@@ -1,7 +1,7 @@
 # Deploy Backend
 Launch the frontend app locally.
 
-* To download all the package dependencies, run the command from the directory `backend/`:
+* Download all the package dependencies, run the command from the directory `backend/`:
     ```bash
         cd backend
 
@@ -17,7 +17,7 @@ Launch the frontend app locally.
 
 # Deploy Frontend
 
-* To download all the package dependencies, run the command from the directory `client/`:
+*  Download all the package dependencies, run the command from the directory `client/`:
 
     ```bash
         cd client
