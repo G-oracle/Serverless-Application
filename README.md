@@ -12,7 +12,7 @@ Launch the frontend app locally.
         serverless
 
         serverless deploy --verbose    
-        ```
+    ```
 
 
 # Deploy Frontend
